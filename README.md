@@ -10,4 +10,4 @@ Interactive maps
 
 This project uses the GeoPandas package to build a spatial analysis map. Then publish it on interactive leaflet.js maps. I was trying to focus on the relation between the COVID-19 confirmed case and spatial. The map selected towns which population density is over 5000 person per square kilometer
 
-![螢幕快照 2022-05-13 上午10 50 37](https://user-images.githubusercontent.com/80818606/168201801-7c5c16a7-0781-40cd-8b30-75ef53dcb5ff.png)
+![ 2022-05-13 ](https://user-images.githubusercontent.com/80818606/168201992-bccea70f-8fcf-4e97-a1b6-a47d8b014656.png)
